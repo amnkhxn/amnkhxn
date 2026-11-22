@@ -1,150 +1,114 @@
  <div align="center">
 
-# 👋 Hey, I'm Aman Khan!
+# AMAN KHAN
+### Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+%26+Frontend+Developer;C%2B%2B+%7C+Python+%7C+JavaScript;Building+Scalable+Applications" alt="Typing SVG" />
+Building scalable applications with modern technologies.
 
-### 💻 Full Stack Developer | MERN Stack Developer | Software Engineer
+<br/>
 
-*Turning ideas into scalable applications through clean code and modern technologies.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Development;MERN+Stack+%7C+Redux;Python+%7C+C%2B%2B+%7C+C%23;Clean+Code.+Scalable+Solutions." alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/amnkhxn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/amnkhxn?tab=repositories">
-<img src="https://img.shields.io/badge/My%20Projects-Explore-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-161B22?style=flat-square&logo=github&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=amnkhxn&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=amnkhxn&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 👨‍💻 Full Stack Developer passionate about building modern web applications.
-- ⚛️ Interested in MERN Stack and React-based development.
-- 🔥 Experienced with JavaScript, Python, C++, C#, and SQL.
-- 🛠️ Interested in backend development, REST APIs, and database management.
-- 🧠 Passionate about Data Structures, Algorithms, and problem-solving.
-- 🌱 Continuously learning new technologies and improving my development skills.
-- 🎯 Focused on building scalable, efficient, and user-friendly applications.
+I'm a Full Stack Developer interested in building modern, scalable, and reliable software applications.
+
+- Full Stack Web Development
+- MERN Stack and Redux
+- Backend development and REST APIs
+- Database design and management
+- Problem solving and Data Structures & Algorithms
+- Continuous learning and exploring new technologies
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,js,ts&theme=dark" />
 </p>
 
-### ⚛️ Frontend Development
+### Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,js,ts,tailwind,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap&theme=dark" />
 </p>
 
-### 🚀 Backend Development
+### Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" />
 </p>
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,npm" />
-</p>
-
-### 🌐 Development Concepts
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,npm&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amnkhxn&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amnkhxn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnkhxn&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnkhxn&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=amnkhxn&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=amnkhxn&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amnkhxn&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amnkhxn&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amnkhxn/amnkhxn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/amnkhxn?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/amnkhxn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
+**Building. Learning. Improving.**
 
-<div align="center">
-
-### 💫 Code. Create. Innovate. Repeat.
-
-*Thanks for visiting my profile!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
